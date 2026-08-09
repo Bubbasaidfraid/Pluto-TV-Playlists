@@ -17,3 +17,22 @@
   "vlcopts": false,
   "pipeopts": false
 }
+{
+  "outdir": "./output",
+  "clientID": "0d72f991-f603-4f54-881e-1bf444205ae4",
+  "mapping": {
+    "us": "45.50.96.71"
+  },
+  "all": false,
+  "group": "genre",
+  "regionalize": false,
+  "excludeGroups": "Movies|Comedy|Classic TV|Westerns|Sci-Fi|Drama|True Crime|Reality|Big Brother Live|Competition Reality|Entertainment|Daytime + Game Shows|News + Opinion|Sports|History + Science|Animals + Nature|Kids|Anime|En Español|Music Videos|Local News",
+  "excludeChannels": false,
+  "uniqueClientid": false,
+  "randomClientid": false,
+  "refresh": 0,
+  "xTvgUrl": false,
+  "ondemand": false,
+  "vlcopts": false,
+  "pipeopts": false
+}
